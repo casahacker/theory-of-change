@@ -22,6 +22,15 @@ Ela se baseia na teoria de construção de movimentos, que centraliza a ação c
 
 # Activities
 
+# Values
+_Em tudo o que fizermos, seremos guiados pelos seguintes valores_\
+
+- Desafiar a criatividade. Explorar possibilidades alternativas além do sistema atual, questionando normas e sonhando com mundos mais justos.
+- Poder da diversidade. Valorizar e aprender com as diferentes perspectivas e experiências que vêm de pessoas diversas, reconhecendo o valor intrínseco de cada indivíduo.
+- Valorização da vivência. Valorizar e dar voz ao conhecimento adquirido através da vivência pessoal, dando espaço para narrativas marginalizadas e desafiando hierarquias tradicionais de conhecimento.
+- Tomando ações ousadas. Não ter medo de agir, mesmo diante de riscos, para desafiar o status quo e criar mudanças concretas.
+- Todo saber é válido. Reconhecer que o conhecimento não vem apenas de fontes acadêmicas tradicionais, mas também de diversas experiências, intuição, arte e cultura.
+
 # Outcomes
 ## Short term
 
